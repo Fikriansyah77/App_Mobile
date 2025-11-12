@@ -1,16 +1,49 @@
-# app_mobile1
+# 🏪 StoreMap - Aplikasi Peta Toko
 
-A new Flutter project.
+## 📱 Tentang Aplikasi
 
-## Getting Started
+Aplikasi mobile untuk mencari dan menemukan toko terdekat dengan fitur navigasi dan rekomendasi.
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🗺️ Peta interaktif dengan lokasi toko
+- 🔍 Pencarian toko berdasarkan kategori
+- 📍 Navigasi ke lokasi toko
+- ⭐ Sistem rating dan ulasan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshoot Halaman
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Halaman 1: Homepage
+
+![alt text](assets/Screenshoot/berita.png)
+**Deskripsi:** Halaman utama menampilkan peta dan toko terdekat
+
+### Halaman 2: Pencarian
+
+![Search](screenshots/search.jpg)  
+**Deskripsi:** Fitur pencarian toko berdasarkan nama dan kategori
+
+### Halaman 3: Detail Toko
+
+![Detail](screenshots/detail.jpg)
+**Deskripsi:** Informasi lengkap toko dan ulasan pengguna
+
+## 🛠️ Teknologi
+
+- Flutter 3.0+
+- Dart
+- Google Maps API
+- Provider State Management
+
+## 👥 Anggota Kelompok
+
+- Fikriansyah - 123456789
+- Teman 1 - 987654321
+- Teman 2 - 456789123
+
+---
+
+## ❓ JAWABAN SOAL NOMOR 1
+
+**[TANDAI DISINI]**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -184,7 +184,7 @@ class _SplashScreenState extends State<SplashScreen>
                     child: SlideTransition(
                       position: _slideAnimation,
                       child: const Text(
-                        'NIM: 152023138',
+                        'NRP: 152023138',
                         style: TextStyle(
                           fontSize: 18,
                           color: Colors.white70,
