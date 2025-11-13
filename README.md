@@ -14,7 +14,6 @@ Aplikasi mobile Flutter yang menyediakan 6 fitur utama: Biodata, Kontak, Kalkula
 
 ### Implementasi Splash Screen
 
-**[TANDAI DISINI]**
 ![alt text](assets/Screenshoot/splash.png)
 
 **Deskripsi:**
