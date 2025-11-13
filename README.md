@@ -61,7 +61,7 @@ Halaman utama dengan navigasi ke 5 fitur menggunakan **Bottom Navigation Bar**
 
 - ✅ Bottom Navigation Bar
 - ✅ Konsep Fragment untuk setiap menu
-- ✅ Semua menu dapat diklik/dinavigasi
+- ✅ Semua menu dapat diklik di dashboardnya atau di bagian buttom navigasi
 
 ---
 
@@ -100,7 +100,7 @@ Form biodata dengan berbagai input field dan foto profile.
 - 📝 Text field
 - 🔽 Dropdown
 - 🔘 Radio button
-- 📅 Calendar/Date picker
+- 📅 Calendar
 - 💾 Tombol simpan
 
 ---
