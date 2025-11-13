@@ -6,7 +6,7 @@ Aplikasi mobile Flutter yang menyediakan 6 fitur utama: Biodata, Kontak, Kalkula
 
 ## 👥 Developer
 
-- Fikriansyah - 15202318
+- Fikriansyah - 152023138
 
 ---
 
