@@ -16,6 +16,10 @@ Aplikasi mobile Flutter yang menyediakan 6 fitur utama: Biodata, Kontak, Kalkula
 
 ![alt text](assets/Screenshoot/splash.png)
 
+###
+
+---
+
 **Deskripsi:**
 Splash screen diimplementasikan dengan durasi 5 detik menampilkan:
 
@@ -37,6 +41,10 @@ Splash screen diimplementasikan dengan durasi 5 detik menampilkan:
 ### 🏠 Halaman Dashboard
 
 ![Dashboard](assets/Screenshoot/dashboard.png)
+
+###
+
+---
 
 **Deskripsi:**
 Halaman utama dengan navigasi ke 5 fitur menggunakan **Bottom Navigation Bar**
@@ -61,11 +69,28 @@ Halaman utama dengan navigasi ke 5 fitur menggunakan **Bottom Navigation Bar**
 
 ![Biodata](assets/Screenshoot/profile.png)
 
+###
+
+---
+
 ![alt text](assets/Screenshoot/dropdown.png)
+
+###
+
+---
 
 ![alt text](assets/Screenshoot/button1.png)
 
+###
+
+---
+
 ![alt text](assets/Screenshoot/kalender.png)
+
+###
+
+---
+
 **Deskripsi:**
 Form biodata dengan berbagai input field dan foto profile.
 
@@ -84,6 +109,10 @@ Form biodata dengan berbagai input field dan foto profile.
 
 ![Kontak](assets/Screenshoot/kontak.png)
 
+###
+
+---
+
 **Deskripsi:**
 Daftar 15 kontak telepon statis dengan layout teks dan circle image.
 
@@ -99,6 +128,10 @@ Daftar 15 kontak telepon statis dengan layout teks dan circle image.
 ### 🧮 Halaman Kalkulator
 
 ![Kalkulator](assets/Screenshoot/kalkulator.png)
+
+###
+
+---
 
 **Deskripsi:**
 Kalkulator sederhana dengan operasi matematika lengkap.
@@ -119,7 +152,15 @@ Kalkulator sederhana dengan operasi matematika lengkap.
 
 ![Cuaca](assets/Screenshoot/cuaca1.png)
 
+###
+
+---
+
 ![alt text](assets/Screenshoot/cuaca2.png)
+
+###
+
+---
 
 **Deskripsi:**
 Display informasi cuaca statis dengan animasi visual yang menarik.
@@ -139,7 +180,15 @@ Display informasi cuaca statis dengan animasi visual yang menarik.
 
 ![Berita](assets/Screenshoot/berita.png)
 
+###
+
+---
+
 ![alt text](assets/Screenshoot/beritaclick.png)
+
+###
+
+---
 
 **Deskripsi:**
 List berita statis dengan layout card yang berulang (recycler view).
