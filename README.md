@@ -37,6 +37,7 @@ Splash screen diimplementasikan dengan durasi 5 detik menampilkan:
 ### 🏠 Halaman Dashboard
 
 ![Dashboard](assets/Screenshoot/dashboard.png)
+
 **Deskripsi:**
 Halaman utama dengan navigasi ke 5 fitur menggunakan **Bottom Navigation Bar**
 
