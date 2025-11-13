@@ -59,7 +59,7 @@ Halaman utama dengan navigasi ke 5 fitur menggunakan **Bottom Navigation Bar**
 
 ### 👤 Halaman Biodata
 
-![Biodata](assets/Screenshoot/biodata.png)
+![Biodata](assets/Screenshoot/profile.png)
 
 ![alt text](assets/Screenshoot/dropdown.png)
 
