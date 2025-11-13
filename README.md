@@ -1,4 +1,4 @@
-# 📱 [ App Mobile]
+# 📱 App Mobile
 
 ## 📖 Tentang Aplikasi
 
