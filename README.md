@@ -195,7 +195,7 @@ List berita statis dengan layout card yang berulang (recycler view).
 
 **Layout:**
 
-- 📋 List/Card layout berulang
+- 📋 List layout berulang
 - 🖼️ Thumbnail berita
 - 🖼️ Berita ketika di klik akan menampilkan detail nya
 - 📖 Judul dan deskripsi singkat
